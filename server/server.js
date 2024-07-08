@@ -3,7 +3,7 @@ const multer = require('multer');
 const { exec } = require('child_process');
 const cors = require('cors');
 const app = express();
-const port = 5000;
+const port = 7860;
 
 // Enable CORS
 app.use(cors());
